@@ -1,3 +1,3 @@
 # Curriculo-w3schools
-
-Referência:https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_templates_cv&stacked=h
+Link no GitHub Pages:https://doni-zete.github.io/curriculo-w3/
+Referência: https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_templates_cv&stacked=h
